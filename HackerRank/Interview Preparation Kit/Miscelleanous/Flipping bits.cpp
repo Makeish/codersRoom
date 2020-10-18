@@ -1,0 +1,20 @@
+#include <bits/stdc++.h>
+
+using namespace std ;
+
+int main()
+{
+    int t ; 
+
+    cin >> t ; 
+
+    while(t--) {
+        
+        long int n ; cin >> n ;
+
+        cout << (unsigned)~n << endl ; 
+
+    }
+
+        return 0 ;
+}
