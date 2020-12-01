@@ -1,0 +1,39 @@
+#include <bits/stdc++.h>
+#define ll long long
+#define MOD 1e9+7
+#define FastIO ios_base :: sync_with_stdio(false) ; cin.tie(NULL) ; cout.tie(NULL) ;
+
+using namespace std ;
+
+void solve()
+{
+    string a ; 
+    
+    cin >> a ; 
+    
+    int ans = 0 ; 
+    
+    map < char , int > mp;
+    
+    for(auto x:a) {
+        mp[x]++ ; 
+    }
+    
+    for(auto x:mp) ans += x.second - 1 ;
+    
+    cout << ans << "\n" ; 
+}
+
+int main()
+{
+    FastIO
+    
+    int testcases = 1;
+    
+    cin >> testcases ;
+    
+    while(testcases--) {
+        solve() ;
+    }
+    return 0 ; 
+}
