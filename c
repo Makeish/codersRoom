@@ -1,4 +1,40 @@
-[33mcommit 257d37297a645db7ec9a3e1d5cf8cd3f5844a9b8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+[33mcommit edaefadd579f750ff4629ea6668205706ba7ae64[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Makeish <ahmedkhan_md18@vnrvjiet.in>
+Date:   Thu Dec 3 12:45:49 2020 +0530
+
+    Day 85
+
+[33mcommit 0a2d49fd634b367675bf3298cbb1ed21dc597387[m
+Author: Makeish <ahmedkhan_md18@vnrvjiet.in>
+Date:   Wed Dec 2 20:00:40 2020 +0530
+
+    Day 84
+
+[33mcommit 0c32f4c610d1161a6f03a4fc281e5d9650c89549[m
+Author: Makeish <ahmedkhan_md18@vnrvjiet.in>
+Date:   Tue Dec 1 17:04:32 2020 +0530
+
+    Day 83
+
+[33mcommit 002aaa17d90e747eb4b46a0f84fe14c10eec3466[m
+Author: Makeish <ahmedkhan_md18@vnrvjiet.in>
+Date:   Mon Nov 30 19:10:29 2020 +0530
+
+    Day 82
+
+[33mcommit 5e4158fa556d2fcd1c6c5f3ca9b10aaa3cb56c9c[m
+Author: Makeish <ahmedkhan_md18@vnrvjiet.in>
+Date:   Sun Nov 29 12:31:14 2020 +0530
+
+    Day 81
+
+[33mcommit 5508621471da86df38c0500fba4113d8291e4905[m
+Author: Makeish <ahmedkhan_md18@vnrvjiet.in>
+Date:   Sat Nov 28 22:18:10 2020 +0530
+
+    Day 80
+
+[33mcommit 257d37297a645db7ec9a3e1d5cf8cd3f5844a9b8[m
 Author: Makeish <ahmedkhan_md18@vnrvjiet.in>
 Date:   Fri Nov 27 07:34:01 2020 +0530
 
