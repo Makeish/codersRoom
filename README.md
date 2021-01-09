@@ -12,11 +12,17 @@ language used:
 C++
 
 Websites from which problems were solved:
+
 1)Hackerrank
+
 2)codechef
+
 3)codeforces
+
 4)Interviewbit
+
 5)spoj
+
 6)GeeksforGeeks
 
 Achievements because of my consistency:
@@ -24,5 +30,7 @@ Achievements because of my consistency:
 This challenge made a good problem solver:
 
 -I became 4 star coder in codechef (link to my profile:https://www.codechef.com/users/lost_boy12)
+
 -I became 6 star problem solver in hackerrank (data structures and algorithms)(link to my profile:https://www.hackerrank.com/lost_boy12)
+
 -I became 5 star in hackerrank (C++)(link to my profile:https://www.hackerrank.com/lost_boy12)
