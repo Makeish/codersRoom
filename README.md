@@ -8,8 +8,7 @@ What did I do:
 
 Started solving problems daily to improve my data structures and algorithms knowledge and also to improve my problem solving skills.
 
-language used:
-C++
+language used : C++
 
 Websites from which problems were solved:
 
@@ -31,9 +30,7 @@ I achieved many things during this challenge though they might not be huge but I
 
 Some of them are :
  
--I became 4 star coder in codechef (a global coding platform)
-
-- view my profile : https://www.codechef.com/users/lost_boy12
+- I became 4 star coder in codechef (a global coding platform)
           
 - I became 6 star problem solver in hackerrank in data structures and algorithms
 
@@ -43,4 +40,6 @@ Some of them are :
 
 - Successfully cleared the assesement skill for PROBLEM SOLVING INTERMEDIATE by HACKERRANK
                                     
-- view my profile : https://www.hackerrank.com/lost_boy12  
+- view my hackerrank profile : https://www.hackerrank.com/lost_boy12  
+
+- view my codechef profile : https://www.codechef.com/users/lost_boy12
