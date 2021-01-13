@@ -27,23 +27,20 @@ Websites from which problems were solved:
 
 Achievements :
 
-I achieved many things during this challenge though they might not look big but I'm extremely happy with what I have achieved. 
+I achieved many things during this challenge though they might not be huge but I'm extremely happy with what I have achieved. 
 
 Some of them are :
-
  
 -I became 4 star coder in codechef (a global coding platform)
 
-          (link to my profile:https://www.codechef.com/users/lost_boy12)
+- view my profile : https://www.codechef.com/users/lost_boy12
           
+- I became 6 star problem solver in hackerrank in data structures and algorithms
 
--I became 6 star problem solver in hackerrank in data structures and algorithms
+- I became 5 star in hackerrank in C++ domain
 
--I became 5 star in hackerrank in C++ domain
+- Successfully cleared the assesement skill for PROBLEM SOLVING BEGINNER by HACKERRANK
 
-- Successfully cleared the assesement skill for PROBLEM SOLVING BEGINNER
-
-- Successfully cleared the assesement skill for PROBLEM SOLVING INTERMEDIATE
-                      
-                      (link to my profile:https://www.hackerrank.com/lost_boy12)
-                      
+- Successfully cleared the assesement skill for PROBLEM SOLVING INTERMEDIATE by HACKERRANK
+                                    
+- view my profile : https://www.hackerrank.com/lost_boy12  
